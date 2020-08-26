@@ -2662,7 +2662,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": "true",
-            "slides__autoplayInterval": "4000",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -2686,7 +2686,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2-2000x1281.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2953,7 +2953,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/16-968x768.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
