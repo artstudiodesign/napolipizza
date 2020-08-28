@@ -2862,7 +2862,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fTJ5OO-qz4s",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
